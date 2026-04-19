@@ -45,72 +45,14 @@
 
 ---
 
-## 📦 Projects
 
-### 🔹 Project 1 - Admin Dashboard
-> A modern admin system built with React + Ant Design
 
-- 🔗 Demo: https://your-demo-link.com
-- 🧑‍💻 Tech: React, TypeScript, Ant Design
-- 📌 Features:
-  - User management
-  - Role permission system
-  - Dynamic routing
 
----
 
-### 🔹 Project 2 - Blog System
-> Markdown-based blog system
 
-- 🔗 Demo: https://your-demo-link.com
-- 🧑‍💻 Tech: Vue / Node.js
-- 📌 Features:
-  - Markdown editor
-  - Image upload
-  - Article management
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 🧩 Currently Exploring
-
-- ⚛️ React Advanced Patterns
-- ⚡ Frontend Performance Optimization
-- 🧱 System Design for Frontend
-- 🧠 AI + Frontend Integration
-
----
-
-<p align="center">
-  ✨ Thanks for visiting my profile ✨
-</p>
 <!--
 **SHZU-CAVEMAN/shzu-caveman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
