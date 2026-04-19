@@ -1,6 +1,5 @@
-### Hi there 👋
 <!-- 你的名字 -->
-<h1 align="center">Hi 👋, I'm Frontend Engineer</h1>
+<h1 align="center">Hi 👋, I'm Li Ao</h1>
 
 <p align="center">
   A passionate Frontend Engineer focused on building modern web applications.
@@ -11,11 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning **React / TypeScript / Node.js**
-- 💬 Ask me about **Web Development / Frontend Architecture**
-- 📫 How to reach me: `your-email@example.com`
-- ⚡ Fun fact: I love building clean UI & scalable frontend systems
-
+- 🌱 I’m currently learning **React / TypeScript / Langchain**
+ 
 ---
 
 ## 🚀 Tech Stack
@@ -23,27 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,html,css,git,github,vite,webpack" />
 </p>
-
----
-
-## 🧠 Skills Overview
-
-### 🖥 Frontend
-- React / Vue
-- TypeScript / JavaScript (ES6+)
-- HTML5 / CSS3 / SCSS
-- Component Design / Hooks / State Management
-
-### ⚙️ Backend (Basic)
-- Node.js
-- Express / Koa (basic understanding)
-
-### 🛠 Tools
-- Git / GitHub
-- Vite / Webpack
-- VSCode
-
----
 
 
 
