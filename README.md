@@ -5,14 +5,12 @@
   A passionate Frontend Engineer focused on building modern web applications.
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on frontend development
 - 🌱 I’m currently learning **React / TypeScript / Langchain**
  
----
 
 ## 🚀 Tech Stack
 
