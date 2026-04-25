@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning **React / TypeScript / Langchain**
+- 🌱 I’m currently learning **React / Android / Langchain**
  
 
 ## 🚀 Tech Stack
