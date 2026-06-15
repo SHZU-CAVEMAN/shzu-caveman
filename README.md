@@ -1,21 +1,17 @@
 <!-- 你的名字 -->
-<h1 align="center">Hi 👋, I'm Li Ao</h1>
-
-<p align="center">
-  A passionate Frontend Engineer focused on building modern web applications.
-</p>
+<h1 align="center">Hi 👋, I'm Liao Haitao</h1>
 
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on frontend development
+- 🔭 Focused on **Frontend, Full-stack Development, AI and Healthcare**.
 - 🌱 I’m currently learning **React / Android / Langchain**
  
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,html,css,git,github,vite,webpack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,react,git,vite,webpack,docker,python" />
 </p>
 
 
