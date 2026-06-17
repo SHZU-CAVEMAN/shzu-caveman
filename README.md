@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Focused on **Frontend / Full-stack / AI / Healthcare**.
-- 🌱 I’m currently learning **React / Android / Langchain**
+- 🌱 I’m currently learning **Langchain / slate**
  
 
 ## 🚀 Tech Stack
