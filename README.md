@@ -6,7 +6,7 @@
 
 - Focused on **Frontend / Full-stack / AI / Healthcare**.
 - I’m currently learning **Langchain / slate**
-- personal blog :  [www.cavetop.fun](https://cavetop.fun)
+- personal blog :  [www.cavetop.fun](http://cavetop.fun)
  
 
 ## 🚀 Tech Stack
