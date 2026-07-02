@@ -4,8 +4,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Focused on **Frontend / Full-stack / AI / Healthcare**.
-- 🌱 I’m currently learning **Langchain / slate**
+- Focused on **Frontend / Full-stack / AI / Healthcare**.
+- I’m currently learning **Langchain / slate**
+- personal blog :  [www.cavetop.fun](https://cavetop.fun)
  
 
 ## 🚀 Tech Stack
