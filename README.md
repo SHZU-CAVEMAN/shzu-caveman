@@ -10,30 +10,16 @@
  
 
 ## 🚀 Tech Stack
-
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,webpack,python,nodejs,docker,mysql,nginx" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,webpack" />
+</p>
+
+### Backend & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,docker,mysql,nginx" />
 </p>
 
 
 
 
-
-
-
-
-
-<!--
-**SHZU-CAVEMAN/shzu-caveman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
