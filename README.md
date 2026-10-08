@@ -17,7 +17,7 @@
 
 ### Backend & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=C,C++,python,nodejs,mysql,redis,sqlite,MongoDB,nginx,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,nodejs,mysql,redis,sqlite,mongodb,nginx,docker,githubactions" />
 </p>
 
 
