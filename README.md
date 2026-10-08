@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,uniapp,electron,vite,webpack" />
 </p>
 
 ### Backend & DevOps
